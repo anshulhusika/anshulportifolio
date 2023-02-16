@@ -794,11 +794,16 @@ background: linear-gradient(to bottom left, #01ffcc 27%, #8803f5 100%);
     align-items: center;
 }
 .con-details{
+
 display: flex;
     /* background-color: #01ffcc; */
   
     color: #FFF;
     justify-content: space-between;
+}
+.con-details h1{
+    font-size: 40px;
+     color: #fff;
 }
 .contact-details p , .services p , .social p{
     margin: 30px 0px;

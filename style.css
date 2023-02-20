@@ -483,8 +483,8 @@ font-weight: 700;
     .blog{
         
         flex-direction: column;
-        padding:30px;
-        margin-top: 20px;
+        /* padding:30px; */
+        padding: 30px 35px;
         /* height: 143vh; */
         background-image: linear-gradient(
             55deg,
@@ -682,6 +682,7 @@ font-weight: 700;
     }
     .spline-head{
         position: absolute;
+        z-index: 50;
     }
 
     
